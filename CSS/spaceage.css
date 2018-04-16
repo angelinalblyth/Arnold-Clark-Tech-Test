@@ -1,6 +1,6 @@
 *,
 *:before,
-*:after {
+*after {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -184,18 +184,6 @@ ul.solarsystem li.mars span {
   background: #aa4200;
   top: 0px;
   left: 175px;
-}
-ul.solarsystem li.asteroids_meteorids {
-  top: 155px;
-  left: 315px;
-  z-index: 1;
-  background: url(asteroids_meteorids.png) no-repeat 0 0;
-  width: 330px;
-  height: 330px;
-  -webkit-border-radius: 165px;
-  -moz-border-radius: 165px;
-  border-radius: 165px;
-  border: none;
 }
 ul.solarsystem li.jupiter {
   width: 340px;
