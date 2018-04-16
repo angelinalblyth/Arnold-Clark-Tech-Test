@@ -379,6 +379,8 @@ ul.solarsystem li.pluto {
   text-align: center;
   text-transform: uppercase;
   text-shadow: 5px 5px #32312b;
+  margin-bottom:20px;
+  margin-top: 20px;
 }
 
 .earth-age {
