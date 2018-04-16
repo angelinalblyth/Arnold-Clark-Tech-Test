@@ -17,4 +17,4 @@ Pluto: Orbital period 248.00 Earth years<br>
 <br>
 So, if you were told someone was 1,000,000,000 seconds old, you should be able to say that they're 31 Earth years old.<br>
 <br>
-You can find the codepen here - https://codepen.io/angelinalblyth/pen/qozwrY<br>
+You can find the codepen here - https://codepen.io/angelinalblyth/full/qozwrY<br>
