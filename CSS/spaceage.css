@@ -387,6 +387,12 @@ ul.solarsystem li.pluto {
   text-align: center;
 }
 
+button {
+  background-color: #e7e7e7; 
+  color: black;
+  padding: 2px 5px;
+}
+
 .planets {
   /*border: 5px dotted red;*/
   list-style-type: none;
