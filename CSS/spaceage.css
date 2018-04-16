@@ -422,15 +422,18 @@ ul.description {
 .description {
   text-align: left;
   width: 90%;
+  margin-left: 40px;
 }
 
 .description p {
   font-size: 15px;
-  margin-left: 10px;
+  margin-left: 20px;
+  padding: 10px;
 }
 
 hr {
   border: 1px solid slategrey;
+  margin-top: 15px;
 }
 footer {
   font-size: 10px;
